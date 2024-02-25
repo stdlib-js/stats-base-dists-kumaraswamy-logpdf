@@ -65,13 +65,13 @@ where `a > 0` is the first shape parameter and `b > 0` is the second shape param
 ## Usage
 
 ```javascript
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@v0.2.1-deno/mod.js';
 ```
 
 #### logpdf( x, a, b )
@@ -174,7 +174,7 @@ y = mylogpdf( 0.3 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-logpdf@v0.2.1-deno/mod.js';
 
 var a;
 var b;
