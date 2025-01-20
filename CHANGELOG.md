@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d199580`](https://github.com/stdlib-js/stdlib/commit/d19958025c3494ec94440c4d4d66e580d145e71e) - **test:** correcly pass options for native tests _(by Philipp Burckhardt)_
 -   [`49dd266`](https://github.com/stdlib-js/stdlib/commit/49dd266c48f72a05a6d3267367835e1d797cd8c7) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/logpdf` [(#4532)](https://github.com/stdlib-js/stdlib/pull/4532) _(by Dev Goel, Philipp Burckhardt, stdlib-bot)_
 
 </details>
