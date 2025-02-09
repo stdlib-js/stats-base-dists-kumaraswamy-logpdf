@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`d199580`](https://github.com/stdlib-js/stdlib/commit/d19958025c3494ec94440c4d4d66e580d145e71e) - **test:** correcly pass options for native tests _(by Philipp Burckhardt)_
 -   [`49dd266`](https://github.com/stdlib-js/stdlib/commit/49dd266c48f72a05a6d3267367835e1d797cd8c7) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/logpdf` [(#4532)](https://github.com/stdlib-js/stdlib/pull/4532) _(by Dev Goel, Philipp Burckhardt, stdlib-bot)_
 
