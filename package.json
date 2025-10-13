@@ -51,6 +51,7 @@
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.2",
+    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/math-base-special-abs": "^0.2.2",
