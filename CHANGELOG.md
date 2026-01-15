@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-13)
+## Unreleased (2026-01-15)
 
 <section class="features">
 
@@ -34,7 +34,9 @@ This release closes the following issue:
 
 <details>
 
--   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh)_
+-   [`5b02960`](https://github.com/stdlib-js/stdlib/commit/5b0296021280236d1e98e0d2c6d2082eb4ebb47d) - **bench:** update random value generation [(#9737)](https://github.com/stdlib-js/stdlib/pull/9737) _(by Harsh Yadav)_
+-   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
+-   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh Yadav)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
 -   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -58,7 +60,7 @@ This release closes the following issue:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Dev Goel
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
