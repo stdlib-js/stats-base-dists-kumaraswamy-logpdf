@@ -327,11 +327,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -377,8 +372,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-kumaraswamy-logpdf/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-base-dists-kumaraswamy-logpdf/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-kumaraswamy-logpdf/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-kumaraswamy-logpdf/main/LICENSE
 
 [kumaraswamy-distribution]: https://en.wikipedia.org/wiki/Kumaraswamy_distribution
 
