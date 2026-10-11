@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5676f37`](https://github.com/stdlib-js/stdlib/commit/5676f37387201cef9bb2b16f15c365fa7cc4b3de) - **test:** migrate `stats/base/dists/kumaraswamy/logpdf` to ULP-based assertions [(#16036)](https://github.com/stdlib-js/stdlib/pull/16036) _(by Athan Reines)_
 -   [`075cabd`](https://github.com/stdlib-js/stdlib/commit/075cabdcc90e9f333a2329ae382fca574ee3f841) - **docs:** fix descriptions [(#13938)](https://github.com/stdlib-js/stdlib/pull/13938) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
